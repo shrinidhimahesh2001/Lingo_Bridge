@@ -1,0 +1,5 @@
+{
+  "name": "LingoBridge",
+  "description": "A refined conversation transcript translator between English and multiple Indian languages, powered by Gemini AI.",
+  "requestFramePermissions": ["microphone"]
+}
